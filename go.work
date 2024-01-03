@@ -1,6 +1,8 @@
 go 1.21.3
 
 use (
+	./1.Two_Sum
+	./2351.First_Letter_to_Appear_Twice
 	./firstAlgo
 	./makeSet
 )
