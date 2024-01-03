@@ -13,7 +13,6 @@ func main() {
 }
 
 // solution using struct
-
 func repeatedCharacter(s string) byte {
 	set := make(map[byte]struct{})
 	for i := 0; i < len(s); i++ {

@@ -2,6 +2,7 @@ go 1.21.3
 
 use (
 	./1.Two_Sum
+	./169.Majority_Element
 	./2351.First_Letter_to_Appear_Twice
 	./387.First_Unique_Character_in_a_String
 	./firstAlgo
