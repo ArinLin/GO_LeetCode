@@ -6,6 +6,7 @@ use (
 	./217.Contains_Duplicate
 	./2351.First_Letter_to_Appear_Twice
 	./2404.Most_Frequent_Even_Element
+	./268.Missing_Number
 	./387.First_Unique_Character_in_a_String
 	./firstAlgo
 	./makeSet
