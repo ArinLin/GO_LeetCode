@@ -5,6 +5,7 @@ use (
 	./1408.String_Matching_in_an_Array
 	./169.Majority_Element
 	./217.Contains_Duplicate
+	./2278.Percentage_of_Letter_in_String
 	./2351.First_Letter_to_Appear_Twice
 	./2404.Most_Frequent_Even_Element
 	./268.Missing_Number
