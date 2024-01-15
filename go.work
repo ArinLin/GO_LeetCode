@@ -3,7 +3,9 @@ go 1.21.3
 use (
 	./1.Two_Sum
 	./1408.String_Matching_in_an_Array
+	./1672.Richest_Customer_Wealth
 	./169.Majority_Element
+	./1877.Minimize_Maximum_Pair_Sum_in_Array
 	./20.Valid_Parentheses
 	./217.Contains_Duplicate
 	./2278.Percentage_of_Letter_in_String
