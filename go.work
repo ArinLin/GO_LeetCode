@@ -8,6 +8,7 @@ use (
 	./1877.Minimize_Maximum_Pair_Sum_in_Array
 	./20.Valid_Parentheses
 	./2042.Check_if_Numbers_Are_Ascending_in_a_Sentence
+	./2068.Check_Whether_Two_Strings_are_Almost_Equivalent
 	./217.Contains_Duplicate
 	./2278.Percentage_of_Letter_in_String
 	./2351.First_Letter_to_Appear_Twice
