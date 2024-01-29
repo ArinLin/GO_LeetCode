@@ -5,6 +5,7 @@ use (
 	./1408.String_Matching_in_an_Array
 	./1672.Richest_Customer_Wealth
 	./169.Majority_Element
+	./1832.Check_if_the_Sentence_Is_Pangram
 	./1877.Minimize_Maximum_Pair_Sum_in_Array
 	./20.Valid_Parentheses
 	./2042.Check_if_Numbers_Are_Ascending_in_a_Sentence
