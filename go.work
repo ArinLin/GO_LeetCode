@@ -14,6 +14,7 @@ use (
 	./2351.First_Letter_to_Appear_Twice
 	./2404.Most_Frequent_Even_Element
 	./268.Missing_Number
+	./2729.Check_if_The_Number_is_Fascinating
 	./349.Intersection_of_Two_Arrays
 	./350.Intersection_of_Two_ArraysII
 	./387.First_Unique_Character_in_a_String
