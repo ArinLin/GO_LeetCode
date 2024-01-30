@@ -14,6 +14,7 @@ use (
 	./217.Contains_Duplicate
 	./2278.Percentage_of_Letter_in_String
 	./2351.First_Letter_to_Appear_Twice
+	./2379.Minimum_Recolors_to_Get_K_Consecutive_Black_Blocks
 	./2404.Most_Frequent_Even_Element
 	./268.Missing_Number
 	./2729.Check_if_The_Number_is_Fascinating
