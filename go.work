@@ -3,6 +3,7 @@ go 1.21.3
 use (
 	./1.Two_Sum
 	./1408.String_Matching_in_an_Array
+	./1423.Maximum_Points_You_Can_Obtain_from_Cards
 	./1456.Maximum_Number_of_Vowels_in_a_Substring_of_Given_Length
 	./1672.Richest_Customer_Wealth
 	./169.Majority_Element
