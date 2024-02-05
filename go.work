@@ -31,4 +31,5 @@ use (
 	./firstAlgo
 	./interfaceTask
 	./makeSet
+	./nil_Check_task
 )
