@@ -33,4 +33,5 @@ use (
 	./interfaceTask
 	./makeSet
 	./nil_Check_task
+	./pointers_tasks
 )
