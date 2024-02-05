@@ -28,6 +28,7 @@ use (
 	./448.Find_All_Numbers_Disappeared_in_an_Array
 	./451.Sort_Characters_By_Frequency
 	./645.Set_Mismatch
+	./alignment_of_structures
 	./firstAlgo
 	./interfaceTask
 	./makeSet
