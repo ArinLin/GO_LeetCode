@@ -33,6 +33,7 @@ use (
 	./interfaceTask
 	./makeSet
 	./nil_Check_task
+	./perm_task
 	./pointers_tasks
 	./stack_task
 )
