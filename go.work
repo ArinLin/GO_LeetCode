@@ -34,6 +34,7 @@ use (
 	./makeSet
 	./multithreading_atomic
 	./multithreading_goroutine
+	./multithreading_map
 	./multithreading_wg
 	./nil_Check_task
 	./perm_task
