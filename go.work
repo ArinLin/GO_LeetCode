@@ -32,6 +32,8 @@ use (
 	./firstAlgo
 	./interfaceTask
 	./makeSet
+	./multithreading_goroutine
+	./multithreading_wg
 	./nil_Check_task
 	./perm_task
 	./pointers_tasks
