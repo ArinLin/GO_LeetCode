@@ -32,6 +32,7 @@ use (
 	./firstAlgo
 	./interfaceTask
 	./makeSet
+	./multithreading_atomic
 	./multithreading_goroutine
 	./multithreading_wg
 	./nil_Check_task
