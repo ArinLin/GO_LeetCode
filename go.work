@@ -6,6 +6,7 @@ use (
 	./1423.Maximum_Points_You_Can_Obtain_from_Cards
 	./1456.Maximum_Number_of_Vowels_in_a_Substring_of_Given_Length
 	./1672.Richest_Customer_Wealth
+	./1679.Max_Number_of_K-Sum_Pairs
 	./169.Majority_Element
 	./1832.Check_if_the_Sentence_Is_Pangram
 	./1877.Minimize_Maximum_Pair_Sum_in_Array
