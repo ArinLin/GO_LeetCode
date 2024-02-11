@@ -19,6 +19,7 @@ use (
 	./2357.Make_Array_Zero_by_Subtracting_Equal_Amounts
 	./2379.Minimum_Recolors_to_Get_K_Consecutive_Black_Blocks
 	./2404.Most_Frequent_Even_Element
+	./2491.Divide_Players_Into_Teams_of_Equal_Skill
 	./2500.Delete_Greatest_Value_in_Each_Row
 	./268.Missing_Number
 	./2729.Check_if_The_Number_is_Fascinating
