@@ -23,6 +23,7 @@ use (
 	./2500.Delete_Greatest_Value_in_Each_Row
 	./26.Remove_Duplicates_from_Sorted_Array
 	./268.Missing_Number
+	./27.Remove_Element
 	./2729.Check_if_The_Number_is_Fascinating
 	./349.Intersection_of_Two_Arrays
 	./350.Intersection_of_Two_ArraysII
