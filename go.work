@@ -39,6 +39,7 @@ use (
 	./interfaceTask
 	./makeSet
 	./multithreading_atomic
+	./multithreading_chan
 	./multithreading_goroutine
 	./multithreading_map
 	./multithreading_wg
